@@ -1,1 +1,1 @@
-Dies sind Unterlagen für ein Tutorial für Mascinelles Lernenr in der Physik
+Dies sind Unterlagen für ein Tutorial für Maschinelles Lernen in der Physik
