@@ -1,2 +1,4 @@
-## html-Datei sind Zwischenschritte
+## html-Dateien sind Zwischenschritte
 *.html
+## pdf-Dateien sind Ausdrucke der Notebooks
+*.pdf
