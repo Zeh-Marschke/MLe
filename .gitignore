@@ -2,3 +2,4 @@
 *.html
 ## pdf-Dateien sind Ausdrucke der Notebooks
 *.pdf
+/pdfs
