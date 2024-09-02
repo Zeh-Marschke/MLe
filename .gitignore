@@ -3,3 +3,5 @@
 ## pdf-Dateien sind Ausdrucke der Notebooks
 *.pdf
 /pdfs
+## Altes Material
+/old
