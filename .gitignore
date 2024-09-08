@@ -5,3 +5,5 @@
 /pdfs
 ## Altes Material
 /old
+## compilierte Module
+/__pycache__
